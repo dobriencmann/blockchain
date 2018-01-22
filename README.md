@@ -1,2 +1,2 @@
 # blockchain
-# youtube video
+# tutorial from youtube video - blockchain javascript
